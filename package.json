@@ -1,0 +1,17 @@
+{
+  "name": "quality_animal_care",
+  "version": "1.0.0",
+  "description": "ecommerce pet shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "keywords": [
+    "Ecommerce",
+    "pet food",
+    "pet shop"
+  ],
+  "author": "Rene Morales",
+  "license": "ISC"
+}

@@ -1,0 +1,27 @@
+/* 
+This file should only contain your imports! 
+*/
+@charset "UTF-8";
+// 1. abstracts
+@import '//abstracts/variable';
+@import '//abstracts/functions';
+@import '//abstracts/mixins';
+// 2. Base stuff
+@import '//base/base';
+@import '//base/fonts';
+@import '//base/helpers';
+@import '//base/typography.scss';
+/// 3. Layout-related sections
+@import '//layout/navigation';
+@import '//layout/grid';
+@import '//layout/header';
+@import '//layout/footer';
+@import '//sass/layout/forms';
+// 4. Components
+@import '//sass/components/buttons';
+@import '//sass/components/carousel';
+@import '//sass/components/slider';
+// 5. Page-specific styles
+@import '//sass/pages/home';
+@import '//sass/pages/about';
+@import '//sass/pages/contact';
