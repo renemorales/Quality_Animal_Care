@@ -2,10 +2,6 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
-
-
-
-
 /// Regular font family
 /// @type List
 $text-font-stack: 'Open Sans',
@@ -22,9 +18,6 @@ $code-font-stack: 'Courier New',
 'Bitstream Vera Sans Mono',
 'Monaco',
 monospace !default;
-
-
-
 
 
 /// Copy text color
@@ -47,7 +40,7 @@ $mid-grey: rgb(153, 153, 153) !default;
 /// @type Color
 $dark-grey: rgb(68, 68, 68) !default;
 
-
+$alert--color: #c8102e;
 
 
 

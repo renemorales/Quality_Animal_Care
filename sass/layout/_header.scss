@@ -1,3 +1,18 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: red;
+
+  // &__announcements {
+  //   display: flex;
+  //   justify-content: space-evenly;
+  //   background: $alert--color;
+  //   color: whitesmoke;
+  //   text-transform: uppercase;
+  // }
+}
