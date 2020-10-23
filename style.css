@@ -93,7 +93,14 @@ body {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  background-color: red;
+}
+.header__announcements {
+  display: flex;
+  justify-content: space-evenly;
+  background: #c8102e;
+  color: whitesmoke;
+  text-transform: uppercase;
+  padding: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
